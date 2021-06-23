@@ -45,5 +45,3 @@ dataset_list = ['Brand Value' ,
                 'HCP Universe']
 
 choice_of_dataset = select('Choose dataset type', dataset_list)
-
-def generate_sub_type(choice_of_dataset):
